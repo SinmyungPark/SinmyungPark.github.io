@@ -1,0 +1,13 @@
+.jumbotron {
+  margin-bottom: 0px;
+  height: 350px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  background:transparent;
+}
+
+body {
+	background-image: url(http://media.idownloadblog.com/wp-content/uploads/2016/06/macOS-Sierra-Wallpaper-Macbook-Wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+ }
