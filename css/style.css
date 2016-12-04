@@ -9,7 +9,7 @@ html {
 }
 body {
 	background-color: black;	
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+	
 }
 .card {
   border-color: #ccc;
@@ -21,4 +21,8 @@ body {
 }
 .navbar-brand {
 	font-weight: 600;
+}
+
+p {
+    text-indent: 10px;
 }
